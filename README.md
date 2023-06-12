@@ -1,5 +1,9 @@
 # Performa-ITCLab
-Dari Hasil diatas yang sesuai dengan yang ada diweb saya coba membuat pengembangan dengan menjadikanya sebuah tabel lewat code
+
+-Tugas
+Pilih salah satu materi lalu buat analisa/kembangkan 
+
+Dari Hasil diatas yang sesuai dengan yang ada diweb saya coba membuat pengembangan dengan merekamnya menjadi sebuah tabel lewat code
 
 ![image](https://github.com/Raaffii/Performa-ITCLab/assets/95669005/b4bbeb80-6cab-4a9c-83c2-8159b690209c)
 Didapatkan hasi sebagai berikut dengan jumlah data yang ada sebanyak 900 dan terbagi menjadi 3 buah kolom
