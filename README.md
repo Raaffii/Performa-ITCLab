@@ -1,8 +1,9 @@
 # Performa-ITCLab
 
-Rafi Rabbani 20081010229
-Harith Hakim 20081010080
-Dimas Rizki 20081010
+Kelompok 9
+-Rafi Rabbani 20081010229
+-Harith Hakim 20081010080
+-Dimas Rizki 20081010
 
 -Tugas
 Pilih salah satu materi lalu buat analisa/kembangkan 
